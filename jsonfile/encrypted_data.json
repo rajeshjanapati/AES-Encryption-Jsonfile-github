@@ -1,1 +1,31 @@
-
+{
+  "appId": "c86938d7-07fe-49ff-8714-8960357e57d7",
+  "callbackUrl": "http://weatherapp.com",
+  "createdAt": "1694199318145",
+  "credentials": [
+    {
+      "apiProducts": [
+        {
+          "apiproduct": "weatherProduct",
+          "status": "approved"
+        }
+      ],
+      "consumerKey": {
+        "IV": "q8lxpVZS3qmqK92Tj6v5tQ==",
+        "EncryptedValue": "DD4y6QpDU7mrx0ZjW8uAhVJBpaCf0jfo5uq+V6hEHHa4EnEGDUTo5D0VolqHGsgwMQ3TnhHIeseRuHg25TtFUw=="
+      },
+      "consumerSecret": {
+        "IV": "u74l1zfe3+grByxpxpii5w==",
+        "EncryptedValue": "pYCSbVlckTPle94BZ9WpQRpU/qBQ6GIF4AXbmc2e+2wJhCsF8FfS73Qhg2eu7gcaT+nt76Jgb7sR7OMvuV9eOVPIDx/PiwB/jwrsp7PYu/Y="
+      },
+      "expiresAt": "-1",
+      "issuedAt": "1694199318167",
+      "status": "approved"
+    }
+  ],
+  "developerId": "b9d16493-f013-415e-93c5-b0f210b41abb",
+  "lastModifiedAt": "1694456393979",
+  "name": "app",
+  "status": "approved",
+  "appFamily": "default"
+}
